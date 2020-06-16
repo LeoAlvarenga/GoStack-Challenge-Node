@@ -94,12 +94,6 @@ For this challenge we have the following tests:
 
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
 
-## :calendar: Deliver
-
-This challenge must be delivered.
-
-After completing the challenge, posting on Linkedin about it is a good way to demonstrate your efforts to evolve your career for future oportunities.
-
 ## :memo: Licence
 
 This project is under license from MIT. See the archive [LICENSE](LICENSE) to more details.
